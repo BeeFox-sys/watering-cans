@@ -3,13 +3,14 @@
 	"id": "watering-cans",
 	"version": "${version}",
 	"name": "Watering Cans",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A simple watering can mod",
 	"authors": [
-		"Me!"
+		"Beefox"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/wateringcans",
+		"sources": "https://github.com/BeeFox-sys/watering-cans",
+		"issues": "https://github.com/BeeFox-sys/watering-cans/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/watering-cans/icon.png",
@@ -27,8 +28,5 @@
 		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
